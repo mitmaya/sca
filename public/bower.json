@@ -1,0 +1,23 @@
+{
+  "name": "sca",
+  "version": "0.0.1",
+  "description": "Sistema de gestao de associados",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Miter Mayer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
